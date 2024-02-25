@@ -19,4 +19,4 @@ local_settings.py
 .vscode/
 *.pyc
 
-.DS._Store
+**/.DS._Store
